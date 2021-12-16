@@ -1,5 +1,4 @@
 // attaching function to exports
-
 exports.handler = async () => {
     // log to console when this function runs so we can see where console logs are output
     console.log('function ran')
